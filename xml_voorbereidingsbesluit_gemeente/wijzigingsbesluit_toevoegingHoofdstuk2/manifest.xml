@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://www.overheid.nl/2017/lvbb">
+   <!-- OP-bestanden -->
+   <bestand>
+      <bestandsnaam>opdracht.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Besluit.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>manifest.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Bedrijfsgebouwen.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Bedrijfsgebouwen.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
+ 
+   <bestand>
+      <bestandsnaam>manifest-ow.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>owLocaties_voorbereidingsbesluit.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+ 
+   <bestand>
+      <bestandsnaam>owRegeltekst.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+</manifest>
